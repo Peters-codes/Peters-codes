@@ -1,0 +1,14 @@
+Snake
+   The snake has to be able to move around the whole game board.(Move)
+   End when touching the wall. (hit_wall)
+   After eating fruit grow. (add_length)
+   When the snake touches it's self it ends. (hit_body)
+Fruit
+    Has to be able to spawn in random spots.
+    It has to end when the snake eats it.
+Wall
+    It stops player from touching the border.
+
+Score
+    the score increases by 1 when the snake touches the fruit and the fruit ends.
+
